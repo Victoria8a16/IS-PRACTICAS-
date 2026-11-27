@@ -1,5 +1,6 @@
 Pruebas.
 integrantes:
-Deyvis
-Victoria
-stephany
+Deyvis Javier Gonzalez
+Victoria Ochoa
+Stephany Benitez
+
